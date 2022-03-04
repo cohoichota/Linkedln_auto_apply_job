@@ -5,8 +5,8 @@ from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import NoSuchElementException
 import time
 
-ACCOUNT_EMAIL = "michealporter803@gmail.com"
-ACCOUNT_PASSWORD = "K9#L(B(s5thjXZb"
+ACCOUNT_EMAIL = "xxx@gmail.com"
+ACCOUNT_PASSWORD = "xxx"
 PHONE = "0123456789"
 
 
